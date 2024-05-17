@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 import requests #module for making request to a webpage
 import threading #module for multi-threading
 import argparse #module for parsing command line arguments
